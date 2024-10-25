@@ -1,7 +1,7 @@
 # Year Sales Analyses dashboard
 
 ## Total profit by Payment Method
-![image](https://github.com/user-attachments/assets/ce75bacc-31c0-4384-9f95-64f3331c0141)
+![image](https://github.com/user-attachments/assets/d122edbf-e601-478e-af5c-95942f4545e2)
 
 
 ## Total Revenue By Product Line
@@ -26,6 +26,6 @@
 
 
 
-![image](https://github.com/user-attachments/assets/d122edbf-e601-478e-af5c-95942f4545e2)
+
 # Dashboard
 ![image](https://github.com/user-attachments/assets/57a86e47-f2ad-4067-b55f-5533dd794548)
