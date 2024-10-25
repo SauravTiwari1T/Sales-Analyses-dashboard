@@ -20,8 +20,6 @@
 ![image](https://github.com/user-attachments/assets/38ec99db-11b5-47e6-9e60-e4cb4d020ad1)
 
 ##  Total Revenu By Year
-![image](https://github.com/user-attachments/assets/a8d9992d-f500-4931-a4e9-6eed87e69544)
-
 ![image](https://github.com/user-attachments/assets/8031ff23-df28-4c3f-9642-4eb347064f0e)
 
 
